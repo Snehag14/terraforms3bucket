@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+s3Moduleplan.tfplan
+terraform.tfstate
+terraform.tfstate.backup
